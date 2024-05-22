@@ -1,3 +1,6 @@
+## [1.0.3] - July 25 2022
+* Update Android and iOS FaceBook SDK version
+
 ## [1.0.2] - July 25 2022
 * Unignored example from pubignore
 * Formatting all file under lib
